@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "strict": true,
+    "target": "es2016",
+    "module": "commonjs",
+    "outDir": "dist",
+    "noEmitOnError": true
+  },
+  "exclude": [
+    "dist"
+  ],
+  "include": [
+    "test/index.spec.ts"
+  ]
+}

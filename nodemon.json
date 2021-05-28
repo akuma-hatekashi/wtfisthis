@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "./test",
+    "./src"
+  ],
+  "ignore": [
+    "node_modules",
+    "dist",
+    "./test/out"
+  ],
+  "ext": "ts,json,yml,yaml",
+  "optOut": true
+}
